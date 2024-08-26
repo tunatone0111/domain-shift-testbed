@@ -1,0 +1,6 @@
+__pycache__
+docker-compose.yaml
+logs
+
+# for specific environment
+disk0
