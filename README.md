@@ -1,5 +1,16 @@
 # Domain Shift Testbed
 
+### Tested on...
+```
+pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
+```
+### Requirements
+```
+tqdm
+tensorboard
+xformers
+timm
+```
 ```yaml
 # docker-compose.yaml example
 version: '2.3'
